@@ -221,7 +221,7 @@ h6 {
   width: 24px;
   height: 24px;
   flex-shrink: 0;
-  background-image: url(/img/search.png);
+  background-image: url(../img/search.png);
   background-color: #FFF;
   cursor: pointer;
 }
